@@ -1,6 +1,3 @@
-<html>
-<head></head>
-<body>
 <?php
 
 if (!isset($_REQUEST)) {
@@ -91,5 +88,3 @@ switch ($data->type) {
         break;
 }
 ?>
-</body>
-</html>
