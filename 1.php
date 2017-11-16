@@ -1,4 +1,3 @@
-<?php
 
 if (!isset($_REQUEST)) {
     return;
@@ -87,4 +86,3 @@ switch ($data->type) {
 
         break;
 }
-?>
