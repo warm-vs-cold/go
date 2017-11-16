@@ -1,8 +1,5 @@
 <?php 
 
-if (!isset($_REQUEST)) { 
-  return; 
-} 
 
 //Строка для подтверждения адреса сервера из настроек Callback API 
 $confirmation_token = '3398cab7'; 
